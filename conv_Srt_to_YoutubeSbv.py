@@ -1,4 +1,3 @@
-#!/c/msys64/mingw64/bin/python 
 #!/bin/python
 
 import glob
